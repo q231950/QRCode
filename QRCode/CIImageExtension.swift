@@ -6,7 +6,7 @@
 //  Copyright © 2015 Alexander Schuch. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 internal typealias Scale = (dx: CGFloat, dy: CGFloat)
 
